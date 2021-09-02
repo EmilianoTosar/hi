@@ -1,0 +1,66 @@
+{
+  "streams": [
+    {
+      "title": "First Stream",
+      "description": "This is my first stream!!",
+      "id": 1
+    },
+    {
+      "description": "This is another stream",
+      "title": "Another stream",
+      "id": 2
+    },
+    {
+      "title": "This is a new stream",
+      "description": "Made by me!!!!",
+      "id": 3
+    },
+    {
+      "title": "Another one",
+      "description": "Check if this gets an mf userId",
+      "id": 4
+    },
+    {
+      "title": "Another one",
+      "description": "Checkingggggg",
+      "id": 5
+    },
+    {
+      "title": "Hi ",
+      "description": "Streammmmmm",
+      "id": 6
+    },
+    {
+      "title": "Hi ",
+      "description": "Streammmmmm",
+      "id": 7
+    },
+    {
+      "title": "Hi ",
+      "description": "Streammmmmm",
+      "id": 8
+    },
+    {
+      "title": "Tried one more time",
+      "description": "With other stream",
+      "userId": null,
+      "id": 9
+    },
+    {
+      "title": "Other one",
+      "description": "Creating another",
+      "id": 10
+    },
+    {
+      "title": "Another stream",
+      "description": "Just one more",
+      "id": 11
+    },
+    {
+      "title": "Hola",
+      "description": "Wasana",
+      "userId": null,
+      "id": 12
+    }
+  ]
+}
